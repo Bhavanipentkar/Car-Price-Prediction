@@ -1,0 +1,4 @@
+# Only needed for train.py extras and the EDA notebook (not for running the app)
+-r requirements.txt
+matplotlib>=3.8
+notebook
